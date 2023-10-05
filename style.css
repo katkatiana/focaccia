@@ -1,0 +1,96 @@
+body, #food-image{
+    width: 100%;
+    min-width:100px;
+}
+
+.logo{
+    text-align: center;
+}
+
+#first-image{
+    width: 150px;
+    height: 40px;
+}
+
+#first-line
+{
+    height: 1px;
+    background-color:yellow;
+    border: none;
+}
+
+#logo-sentence{
+    background: #FDFBF1;
+    height: 40px;
+}
+
+#sentence-color{
+color: #0d5554;
+font-size: smaller;
+}
+
+#main-title{
+text-align: center;
+}
+
+.main-content, #mail-title{
+margin-right: 30%;
+margin-left: 30%;
+}
+
+#food-image{
+border-radius: 10px;
+box-shadow: 5px 5px rgb(235, 235, 235);
+}
+
+#author{
+color: rgb(162, 157, 157); 
+text-align: center;
+}
+
+.sauce-link{
+border-left: thin solid #ffe45e;
+height:40px;
+padding-left: 15px;
+font-weight: 500;
+}
+
+#sauce-text{
+color:rgb(184, 59, 14);
+}
+
+a{
+color: #0d5554;
+}
+
+#second-line{
+height: 1px;
+background-color: aqua;
+border: none;
+}
+
+.bottom-headings{
+font-weight: 500;
+}
+
+h5{
+margin-bottom: 0;
+}
+
+.list-headings{
+margin-bottom: 5px;
+}
+
+li{
+padding-bottom: 10px;
+}
+
+#third-line{
+height: 1px;
+background-color: aquamarine;
+border: none;
+}
+
+.method-list, #inside-method{
+margin-bottom: 0;
+}
